@@ -5,6 +5,6 @@
 a = int(input("Introduce el primer numero: "))
 b = int(input("Introduce el segundo numero: "))
 
-def suma(a,b):
-    res = a+b
-    return(res)
+def sumar(a,b):
+    suma = a+b
+    return suma
